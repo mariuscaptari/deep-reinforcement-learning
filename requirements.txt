@@ -1,6 +1,8 @@
-torch==2.1.0
-numpy==1.24.0
-pandas==1.5.3
-seaborn==0.12.2
-matplotlib==3.5.1
-scikit-image==0.20.0
+torch
+torchvision
+numpy
+pandas
+seaborn
+matplotlib
+scikit-image
+ipykernel
