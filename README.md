@@ -1,5 +1,5 @@
 # deep-reinforcement-learning 2023 group 44
 
-Double DQN algortihm applied to the game of `catch.py`.
+DQN and Double DQN algorithms applied to the game of `catch.py`.
 
-![results plot](learning_curves.png)
+![results plot](catch-learning-curves.png)
